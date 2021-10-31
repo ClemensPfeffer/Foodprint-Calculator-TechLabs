@@ -13,11 +13,10 @@ As man-made climate change continues and poses a major problem for the future of
 Several extensions of the application would be possible in the future. In the beginning, the plan of the project was to provide carbon emission-saving alternatives to the items, based on similar nutrients. Unfortunately, this functionality could not be implemented due to the time limit, but it is highly interesting for future extensions of the application. An annual calendar with information on which foods are locally available in the respective countries at certain times would also be conceivable for the future. Additionally, user accounts are something that we experimented around with. Unfortunately, we were not able to implement these without compromising other features of the program. Still the possibility of different accounts also enables future implementations. Such could be visualizations that compare one user's emissions to the rest, which could be displayed via heatmaps or graphs.
 
 # How to use the calculator:
-1.
-Install all necessary modules (tkinter, pandas, numpy...)
-2.
-Run the code
-3.
-Select the item bought, its weights, origin, your location and click "add to shopping list". The item should appear underneath the buttons. Repeat this as often as desired
-4.
-Once you are done, click "ready". This will open another window where a table will apear, which shows the carbon emissions caused by your shopping list.
+1. Install all necessary modules (tkinter, pandas, numpy...)
+
+2. Run the code
+
+3. Select the item bought, its weights, origin, your location and click "add to shopping list". The item should appear underneath the buttons. Repeat this as often as desired
+
+4. Once you are done, click "ready". This will open another window where a table will apear, which shows the carbon emissions caused by your shopping list.
