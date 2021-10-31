@@ -20,3 +20,6 @@ Several extensions of the application would be possible in the future. In the be
 3. Select the item bought, its weights, origin, your location and click "add to shopping list". The item should appear underneath the buttons. Repeat this as often as desired
 
 4. Once you are done, click "ready". This will open another window where a table will apear, which shows the carbon emissions caused by your shopping list.
+
+# Link to an explaining video
+https://drive.google.com/file/d/1AMBETfiBJb3No2WPgct-bTgTHO2PrCZf/view
